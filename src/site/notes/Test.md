@@ -1,15 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/test/"}
+{"dg-publish":true,"permalink":"/test/","tags":"gardenEntry"}
 ---
 
-
-asdkjn
-asdk\jkans
-jansd
-asjnd
-ajksdn
-asdjnk
-asdjnk asdjnk asjnd 
-askjnd
-asjdn
-asdjn
